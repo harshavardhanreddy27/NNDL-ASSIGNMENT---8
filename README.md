@@ -14,4 +14,4 @@ Neural Networks and Deep Learning Assignment - 8
 6. The training and validation loss are plotted to visualize the performance of the autoencoder model during training.
 
 ### Video Link
-https://drive.google.com/file/d/1Lm_6mjzpvT56QsPDcmqIRuxcvF8Wq1Bt/view?usp=share_link
+https://drive.google.com/file/d/1RhgHQz7q_R-V6RSIZA55eyy7E0JBDL6t/view?usp=share_link
